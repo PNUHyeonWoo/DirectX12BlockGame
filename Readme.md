@@ -2,6 +2,7 @@
 
 ### Using Library
 directX12 util librarys and Light HLSL library in https://github.com/d3dcoder/d3d12book
+
 d3dx12 and DDSTextureLoader made by Microsoft
 
 DDS image file in https://github.com/d3dcoder/d3d12book
